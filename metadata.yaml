@@ -1,10 +1,13 @@
 _repo: Romance-of-the-Rabbit_12909
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Edgerton, Gladys
     gutenberg_agent_id: '26634'
     url: http://www.gutenberg.org/2009/agents/26634
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jammes, Francis
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Francis_Jammes
     - http://fr.wikipedia.org/wiki/Francis_Jammes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12909#Romance-of-the-Rabbit
 gutenberg_issued: '2004-07-14'
 gutenberg_type: Text
 identifiers:
